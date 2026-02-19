@@ -4,7 +4,7 @@ description: Train desire toward what is truly up to us (virtue, character) and 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3839
+  version: 1.0.3840
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - discipline-of-desire-(orexis-training)
